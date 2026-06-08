@@ -2,6 +2,8 @@
 
 A 2D farming simulation game built in Unity where players manage crops, explore different areas, and progress through multiple days of gameplay.
 
+Link ddownload APK: https://drive.google.com/file/d/1wov29QfT1S8RB6hA0mdxuCy4k0I0FFEV/view?usp=sharing
+
 ## 🎮 Game Overview
 
 Blade Farm 2045 is an immersive farming simulation where players cultivate crops, manage resources, and experience a story-driven adventure across multiple days. The game features a complete farming ecosystem with growth cycles, inventory management, and scene transitions.
