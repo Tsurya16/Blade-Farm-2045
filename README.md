@@ -2,7 +2,7 @@
 
 A 2D farming simulation game built in Unity where players manage crops, explore different areas, and progress through multiple days of gameplay.
 
-Link ddownload APK: https://drive.google.com/file/d/1wov29QfT1S8RB6hA0mdxuCy4k0I0FFEV/view?usp=sharing
+Link download APK: https://drive.google.com/file/d/1wov29QfT1S8RB6hA0mdxuCy4k0I0FFEV/view?usp=sharing
 
 ## 🎮 Game Overview
 
